@@ -1,0 +1,49 @@
+body{
+	background-color: #000000;
+	#background-image: url(Troll1.jpg);
+	background-repeat: no-repeat;
+	background-position: bottom;
+	background-size: 20%;
+	margin-left: 20px;
+	margin-right: 20px;
+	margin-bottom: 50px;
+	margin-top: 50px;
+}
+
+
+
+
+h1{
+	color:orange;
+	font-family:"Droid" "Courrier New";
+	margin-left: 10px;
+	text-align: center;
+	font-size: 120px;
+	font-weight: bold;
+}
+h2{
+	color:orange;
+	font-family:"Droid" "Courrier New";
+	margin-left: 10px;
+	text-align:  center;
+	font-size: 60px;
+	font-weight: bold;
+}
+li{
+	color:#FF530D;
+	margin-left: 20px;
+}
+ul{
+	color:#FFFFFF;
+}
+p{
+	color:grey;
+	margin-left: 15px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
